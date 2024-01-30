@@ -1,0 +1,16 @@
+a{
+    /*display: flex;
+    justify-content: space-around;
+    align-items: center;*/
+    display: flex;
+    justify-content: space-between;
+   margin-top: 100px;
+   background-color: white;
+
+    
+}
+body{
+      background-image: url(https://png.pngtree.com/background/20231018/original/pngtree-stunning-cosmic-backdrop-a-glorious-starry-sky-with-3d-rendered-galaxy-picture-image_5597719.jpg);
+      display: flex;
+      justify-content: space-around;
+    }
