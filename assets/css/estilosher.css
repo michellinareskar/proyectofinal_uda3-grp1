@@ -20,6 +20,7 @@ body{
     align-items:center;
     gap: 18px;
     border: 20px;
+
  }
  
 
@@ -32,3 +33,12 @@ img{
     font-family: Arial, Helvetica, sans-serif;
 
  }
+h1{
+    position: fixed;
+    margin-left: 600px;
+
+width: 100%;    
+    isolation: isolate;
+  
+    border: #090808;
+}
